@@ -18,9 +18,9 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-    .stApp { background-color: #f4f7fb; }
-    [data-testid="stAppViewContainer"] { background-color: #f4f7fb; }
-    [data-testid="stHeader"] { background-color: #f4f7fb; border-bottom: 1px solid #dde3ee; }
+    .stApp { background-color: #d6e8f7; }
+    [data-testid="stAppViewContainer"] { background-color: #d6e8f7; }
+    [data-testid="stHeader"] { background-color: #d6e8f7; border-bottom: 1px solid #b0cce8; }
     h1 { color: #0f1f3d !important; font-weight: 800 !important; letter-spacing: -0.5px; }
     h2, h3 { color: #1e3a5f !important; font-weight: 700 !important; }
     hr { border-color: #d0d9e8 !important; }
